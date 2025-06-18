@@ -294,7 +294,7 @@ biom add-metadata -i exported_table/feature-table.biom --observation-metadata-fp
 
 > **Comentario:** Se genera un archivo BIOM que combina la tabla de características filtrada con la información taxonómica. Este archivo es útil para análisis adicionales y visualizaciones.
 
-### Exportar los archivos BIOM y metadata.txt
+### 3.19 Exportar los archivos BIOM y metadata.txt
 
 ## 4. Análisis de diversidad
 
