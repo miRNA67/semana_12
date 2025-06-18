@@ -298,24 +298,27 @@ biom add-metadata -i exported_table/feature-table.biom --observation-metadata-fp
 
 ## 4. Análisis de diversidad
 
-### Cargar los archivos en el programa microbiomeanalyst(https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/ModuleView.xhtml) y seguir las indicaciones del docente
+### Cargar los archivos en el programa microbiomeanalyst (https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/ModuleView.xhtml) y seguir las indicaciones del docente
 
 # Bitácora de la práctica:
 
 ## Resultados
 
+```bash
 •	Valores de calidad y numero de lecturas en la data cruda y después de la limpieza 
 •	Estadísticas del denoising 
 •	Análisis de abundancia a nivel de genero 
 •	Análisis de alfa diversidad (2 métricas) a nivel de familia y género 
 •	Análisis de beta diversidad (PCoA y NMDS) a nivel de familia y género 
+```
 
 ## Discusión
 
+```bash
 •	Explicar que métrica de la diversidad alfa y que categoria taxonómica representa mejor la diversidad de cada muestra
 •	Explicar cual metodo de ordinación de la diversidad beta se correlacina con la similaridad/disimilaridad de las muestras
 •	Indicar si hay diferencias con lo reportado en el artículo científico.
-
+```
 
 
 
